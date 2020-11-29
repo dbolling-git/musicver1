@@ -319,3 +319,4 @@ class Map(object):
 a_map = Map('river_troll')
 a_game = Engine(a_map)
 a_game.play()
+
